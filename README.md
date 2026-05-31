@@ -1,2 +1,2 @@
-# MyCalculator
+# SamiCalc - A Calculator
 Made a simple calculator using frontend technologies HTML , CSS and JS!
